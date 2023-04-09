@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "CSS-NEWGAMES",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSS-NEWGAMES"
+	}
+}
